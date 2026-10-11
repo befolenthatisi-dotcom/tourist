@@ -50,4 +50,4 @@ The application will run at `http://localhost:3000`.
 
 ## Conclusion
 
-Explore Lesotho provides an interactive platform for discovering tourist destinations and planning visits to the Kingdom in the Sky. The project demonstrates the use of React components, state management, routing, event handling, and responsive web design.
+Explore Lesotho provides an interactive platform for discovering tourist destinations and planning visits to the Kingdom in the Sky. The project demonstrates the use of React components, state management, routing, event handling and responsive web design.
